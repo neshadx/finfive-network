@@ -24,7 +24,7 @@ const Navbar = () => {
                         </NavLink>
                     </ul>
                 </div>
-                <Link to='/' className='font-bold text-2xl md:text-3xl'>Phone <span className='text-gray-500'>Gallery</span></Link>
+                <Link to='/' className='font-bold text-2xl md:text-3xl'>FinFive <span className='text-gray-500'>Network</span></Link>
             </div>
             <div className="navbar-end hidden lg:flex gap-5">
                 <ul className="menu menu-horizontal px-1 gap-5 font-semibold">
