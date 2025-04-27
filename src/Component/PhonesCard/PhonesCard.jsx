@@ -8,7 +8,7 @@ const PhonesCard = ({ phone,deletable,handleDelete }) => {
                 <figure>
                     <img
                         src={image}
-                        alt="Shoes" />
+                        alt="Phone" />
                 </figure>
                 <div className="card-body">
                     <h2 className="card-title text-2xl">{name}</h2>

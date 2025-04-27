@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Hero from '../Component/hero/Hero';
+import Hero from '../Component/Hero/Hero';
 import PhonesContainer from '../Component/phonesContainer/PhonesContainer';
 import { useLoaderData } from 'react-router';
 
